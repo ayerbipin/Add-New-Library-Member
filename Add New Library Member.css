@@ -1,0 +1,39 @@
+.container{
+    border: 5px solid rgb(211, 21, 21);
+    height: 700px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    background-color:rgb(49, 176, 199);
+    margin: 0 auto;
+    border-radius: 20px;
+    color: rgb(0, 255, 76)
+    
+}
+form{
+
+    padding: 20px;
+}
+button{
+    margin: 16px;
+    width: 500px;
+    
+    padding: 10px 40px;
+    align-items: center;
+    color: rgb(53, 11, 165);
+    
+}
+input{
+    width: 450px;
+    padding: 10px 40px;
+}
+select{
+    width: 535px;
+    padding: 10px 40px;
+    
+}
+h1{
+    color: blue;
+}
